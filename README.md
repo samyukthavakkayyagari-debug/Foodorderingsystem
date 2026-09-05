@@ -1,19 +1,21 @@
-# Food Hub
+# Food Ordering System
 
-## Food Ordering System
+## Introduction
+Food Ordering System is a simple project for ordering food online.
 
-Food Hub is an online food ordering system.
-
-### Features
+## Features
 - Food Menu
 - Place Order
 - View Orders
 - Customer Details
 - Payment
 
-### Technologies
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Java
-- DSA
+- Data Structures and Algorithms
+
+## Objective
+The main objective of this project is to make food ordering easy and convenient.
